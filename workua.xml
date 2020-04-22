@@ -1,2 +1,81 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<items_list><work id="element 0"><job>Помощник системного администратора</job><company_name>Мейкап</company_name><salary currency="hrivna">10000</salary><city>Бровари</city></work><work id="element 1"><job>Java Developer</job><company_name>Такси 571</company_name><salary currency="hrivna">50000–70000</salary><city>Київ</city></work><work id="element 2"><job>SMM-менеджер</job><company_name>КТ Україна, ТОВ</company_name><salary currency="hrivna">25000</salary><city>Київ</city></work><work id="element 3"><job>PPC-спеціаліст</job><company_name>КТ Україна, ТОВ</company_name><salary currency="hrivna">30000</salary><city>Київ</city></work><work id="element 4"><job>SEO-оптимизатор</job><company_name>Aks.ua, интернет-магазин</company_name><salary currency="hrivna">15000</salary><city>Київ</city></work><work id="element 5"><job>Интернет-маркетолог</job><company_name>Wevent, агентство event-маркетинга</company_name><salary currency="hrivna">15000</salary><city>Одеса</city></work><work id="element 6"><job>Системный администратор</job><company_name>PLC Group</company_name><salary currency="hrivna">10000–13000</salary><city>Дніпро</city></work><work id="element 7"><job>SMM-менеджер</job><company_name>Хаскі Аутсорсинг, ТОВ</company_name><salary currency="hrivna">12500</salary><city>Київ</city></work><work id="element 8"><job>Блогер, ведущая видеороликов</job><company_name>Мобизон, ООО</company_name><salary currency="hrivna">15000–20000</salary><city>Київ</city></work><work id="element 9"><job>Контент-, SMM-менеджер</job><company_name>Bonanza Beauty</company_name><salary currency="hrivna">9000</salary><city>Харків</city></work><work id="element 10"><job>Специалист отдела тех. поддержки в школу менеджеров</job><company_name>Стратоплан, онлайн-школа менеджеров</company_name><salary currency="hrivna">10000</salary><city>Київ</city></work><work id="element 11"><job>Менеджер по продажам (теплые продажи, B2B, IT)</job><company_name>Бинотел, ООО</company_name><salary currency="hrivna">25000</salary><city>Київ</city></work><work id="element 12"><job>Программист 1C</job><company_name>Бизнес Груп</company_name><salary currency="hrivna">40000</salary><city>Київ</city></work></items_list>
+<?xml version="1.0" encoding="UTF-8"?>
+<items_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/%D0%A1%D0%B0%D1%88%D0%B0/Desktop/asdfg.xsd">
+	<work id="element 0">
+		<job>Помощник системного администратора</job>
+		<company_name>Мейкап</company_name>
+		<salary currency="hrivna">10000</salary>
+		<city>Бровари</city>
+	</work>
+	<work id="element 1">
+		<job>Java Developer</job>
+		<company_name>Такси 571</company_name>
+		<salary currency="hrivna">50000–70000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 2">
+		<job>SMM-менеджер</job>
+		<company_name>КТ Україна, ТОВ</company_name>
+		<salary currency="hrivna">25000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 3">
+		<job>PPC-спеціаліст</job>
+		<company_name>КТ Україна, ТОВ</company_name>
+		<salary currency="hrivna">30000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 4">
+		<job>SEO-оптимизатор</job>
+		<company_name>Aks.ua, интернет-магазин</company_name>
+		<salary currency="hrivna">15000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 5">
+		<job>Интернет-маркетолог</job>
+		<company_name>Wevent, агентство event-маркетинга</company_name>
+		<salary currency="hrivna">15000</salary>
+		<city>Одеса</city>
+	</work>
+	<work id="element 6">
+		<job>Системный администратор</job>
+		<company_name>PLC Group</company_name>
+		<salary currency="hrivna">10000–13000</salary>
+		<city>Дніпро</city>
+	</work>
+	<work id="element 7">
+		<job>SMM-менеджер</job>
+		<company_name>Хаскі Аутсорсинг, ТОВ</company_name>
+		<salary currency="hrivna">12500</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 8">
+		<job>Блогер, ведущая видеороликов</job>
+		<company_name>Мобизон, ООО</company_name>
+		<salary currency="hrivna">15000–20000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 9">
+		<job>Контент-, SMM-менеджер</job>
+		<company_name>Bonanza Beauty</company_name>
+		<salary currency="hrivna">9000</salary>
+		<city>Харків</city>
+	</work>
+	<work id="element 10">
+		<job>Специалист отдела тех. поддержки в школу менеджеров</job>
+		<company_name>Стратоплан, онлайн-школа менеджеров</company_name>
+		<salary currency="hrivna">10000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 11">
+		<job>Менеджер по продажам (теплые продажи, B2B, IT)</job>
+		<company_name>Бинотел, ООО</company_name>
+		<salary currency="hrivna">25000</salary>
+		<city>Київ</city>
+	</work>
+	<work id="element 12">
+		<job>Программист 1C</job>
+		<company_name>Бизнес Груп</company_name>
+		<salary currency="hrivna">40000</salary>
+		<city>Київ</city>
+	</work>
+</items_list>
